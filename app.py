@@ -33,7 +33,13 @@ def fetch_messages():
     root.after(2000, fetch_messages)
 
 
-#mongodb+srv://admin:123456robin@robinsapi.8jc0x.mongodb.net/?retryWrites=true&w=majority&appName=RobinsAPI
+#jkajdkiajdajsdia
+
+# steg 1, tryck på source control ikonen till vänster
+# steg 2, append changes
+# steg 3, skriv en kommentar
+# steg 4, trcyk på commit
+# steg 5, push
 
 fetch_messages()
 root.mainloop()
