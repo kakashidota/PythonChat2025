@@ -36,11 +36,19 @@ def fetch_messages():
 #jkajdkiajdajsdia
 # stekjakjdklasjdklajsdakljdlakjdlkajdlkajsdlakjsdkajkl massa kod massa bnöööss 
 
+
+# VISUELT
 # steg 1, tryck på source control ikonen till vänster
 # steg 2, append changes
 # steg 3, skriv en kommentar
 # steg 4, trcyk på commit
 # steg 5, push
+
+# TERMINAL
+# Steg 1, git status och verifiera att förändringanra finns där
+# steg 2, skriv : git add .
+# steg 3, skriv : git commit -m "dettaä r en kommetnar"
+# steg 4, git push
 
 fetch_messages()
 root.mainloop()
