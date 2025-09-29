@@ -34,6 +34,7 @@ def fetch_messages():
 
 
 #jkajdkiajdajsdia
+# stekjakjdklasjdklajsdakljdlakjdlkajdlkajsdlakjsdkajkl massa kod massa bnöööss 
 
 # steg 1, tryck på source control ikonen till vänster
 # steg 2, append changes
